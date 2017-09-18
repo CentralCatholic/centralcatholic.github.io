@@ -1,3 +1,5 @@
+Central Catholic Data Structures Course
+
 # gatsby-starter-default
 The default Gatsby starter
 
