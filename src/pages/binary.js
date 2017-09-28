@@ -51,7 +51,7 @@ const BigOPage = () => (
     <h1>Binary Search</h1>
     <Link to="/">Go back to the homepage</Link>
     <BinaryChart/>
-    <Link to="/bubble">Bubble Sort</Link>
+    <Link to="/public/bubble">Bubble Sort</Link>
   </div>
 )
 export default BigOPage

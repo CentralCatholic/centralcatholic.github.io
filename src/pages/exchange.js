@@ -50,7 +50,7 @@ const BigOPage = () => (
     <h1>Exchange Sort</h1>
     <Link to="/">Go back to the homepage</Link>
     <ExchangeChart/>
-    <Link to="/fib">Fibonacci</Link>
+    <Link to="/public/fib">Fibonacci</Link>
   </div>
 )
 export default BigOPage

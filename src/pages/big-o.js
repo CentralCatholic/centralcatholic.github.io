@@ -10,8 +10,8 @@ import BinaryData from '../data/binary';
 const BigOPage = () => (
   <div>
     <h1>Linear Search</h1>
-    <Link to="/">Go back to the homepage</Link><br></br>
-    <Link to="/linear">Linear Search</Link>
+    <Link to="/public">Go back to the homepage</Link><br></br>
+    <Link to="/public/linear">Linear Search</Link>
   </div>
 )
 export default BigOPage

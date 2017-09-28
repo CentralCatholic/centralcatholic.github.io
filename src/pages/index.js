@@ -4,7 +4,7 @@ import Link from 'gatsby-link'
 const IndexPage = () => (
   <div>
     <h1>Lectures</h1>
-    <Link to="/big-o">Time Complexity Visualization</Link><br></br>
+    <Link to="/public/big-o">Time Complexity Visualization</Link><br></br>
     <a href="https://github.com/CentralCatholic/time-complexity">Source code</a><br></br>
 
     <h1>Homework</h1>
